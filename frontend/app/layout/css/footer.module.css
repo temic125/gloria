@@ -1,0 +1,32 @@
+.footer {
+    background: #fff;
+    color: var(--primary-dark);
+    padding: 32px 32px 20px;
+}
+
+.inner {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.brand {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-width: 280px;
+}
+
+.tagline {
+    font-size: 14px;
+    color: #5A6A99;
+}
+
+.bottom {
+    max-width: 1200px;
+    margin: 20px auto 0;
+    padding-top: 16px;
+    border-top: 1px solid #E3EBFA;
+    font-size: 13px;
+    color: #7C8DC7;
+    text-align: center;
+}

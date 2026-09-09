@@ -1,0 +1,17 @@
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.wordmark {
+    font-family: 'Caveat', cursive;
+    font-weight: 700;
+    font-size: 28px;
+    color: #14204A;
+    line-height: 1;
+}
+
+.wordmark.light {
+    color: #FFFFFF;
+}
