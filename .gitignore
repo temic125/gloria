@@ -1,12 +1,7 @@
-# Python
 venv/
 __pycache__/
 *.pyc
-
-# env files with secrets
 .env
 .env.*
 !.env.example
-
-# OS
 .DS_Store
